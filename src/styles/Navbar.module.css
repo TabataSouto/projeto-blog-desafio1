@@ -1,0 +1,17 @@
+@media screen and (max-width: 780px) {
+  .container {
+    padding: 3rem 1.25rem 2.7rem;
+    font-size: 1.125rem;
+  }
+}
+
+.container {
+  background-color: #3EA1DB;
+  background-image: linear-gradient(to right, #574AE8, #3EA1DB);
+  color: #fff;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
